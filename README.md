@@ -1,12 +1,25 @@
-### Ismail Khan here, welcome to my GitHub.
+## Hello, welcome to my GitHub 🎉
 
-I'm a Toronto-based front-end web developer. I hold a B.Comm in Business Management, I've tenured as an accountant and ecommerce specialist. Now I love to build amazing web applications and using my skills to make the internet a better place. 
+I'm a Toronto-based front-end developer. I hold a B.Comm in Business Management where I've tenured as an accountant and ecommerce specialist for a few years. Now I love to build responsive and rich web applications, and using my newfound skills and ever evolving toolkit to make the internet a better place. 
 
-I'm looking for new opportunities as a full-time Front-End Developer. You can reach me at me[at]ismailkhan.io to setup a conversation. 
+I'm currently looking for new opportunities as a Front-End Developer/Engineer. You can reach me at me[at]ismailkhan.io or through my social media profiles below. 
 
-- 🌱 I’m currently learning React.js, Node.js, further my knowledge of ES6, and mastering modern responsive layouts with CSS and Sass. 
-- 💻 I’m looking to collaborate on open source projects, and I'm looking to mentor interested folks just getting started with web development. 
+#### My Toolkit
+jQuery
+JavaScript (ES6)
+Web Accessibility
+Responsive Design
+React.js
+Node.js
+CSS3/Sass
+HTML5
+Firebase
+MongoDB
+Bootstrap
+Git
 
+#### Goals
+💻 I’m looking to collaborate on open source projects, and I'm looking to mentor interested folks just getting started with web development. 
 
 You can also find me through my social media profiles below:
 - Linkedin: https://www.linkedin.com/in/ismailkhanio/
@@ -14,7 +27,4 @@ You can also find me through my social media profiles below:
 - Medium: https://medium.com/@ismail.khan
 - Codepen: https://codepen.io/ismailkn
 - Dev.to: https://dev.to/ismailkhanio
-
-<!--
-**ismailkhanio/ismailkhanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
