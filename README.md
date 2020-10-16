@@ -5,18 +5,7 @@ I'm a Toronto-based front-end developer. I hold a B.Comm in Business Management 
 I'm currently looking for new opportunities as a Front-End Developer/Engineer. You can reach me at me[at]ismailkhan.io or through my social media profiles below. 
 
 #### My Toolkit
-jQuery
-JavaScript (ES6)
-Web Accessibility
-Responsive Design
-React.js
-Node.js
-CSS3/Sass
-HTML5
-Firebase
-MongoDB
-Bootstrap
-Git
+jQuery, JavaScript (ES6), React.js, Node.js, HTML5, CSS3, Sass, Firebase, MongoDB, Bootstrap, Git, Web Accessibility, Responsive Design
 
 #### Goals
 💻 I’m looking to collaborate on open source projects, and I'm looking to mentor interested folks just getting started with web development. 
